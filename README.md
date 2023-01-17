@@ -8,4 +8,4 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-[![Saulo Ma](https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-maker&layout=compact)](https://github.com/saulo-maker)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saulo-maker)](https://github.com/anuraghazra/github-readme-stats)
