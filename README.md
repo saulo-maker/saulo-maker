@@ -8,4 +8,4 @@
 
 ## Tecnologias que uso no meu dia a dia
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulo-maker&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulo-maker&show_icons=true&theme=transparent)
