@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saulo.sousa21/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulosousasilva3@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulo-maker&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulo-maker&show_icons=true&theme=transparent)
 
 ## Tecnologias que uso no meu dia a dia
 
