@@ -6,6 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saulo-maker&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no meu dia a dia
 
 [![Saulo Ma](https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-maker&layout=compact)](https://github.com/saulo-maker)
